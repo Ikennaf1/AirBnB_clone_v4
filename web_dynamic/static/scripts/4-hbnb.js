@@ -62,6 +62,5 @@ $('document').ready(function () {
         $('.amenities H4').text(Object.values(amenities).join(', '));
       }
     });
+    //TO DO continue with the script to make the button functional
   });
-
-//TO DO continue with the script to make the button functional
